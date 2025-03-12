@@ -17,7 +17,6 @@ To get started with DocIntel, follow these steps:
    ```bash
    git clone https://github.com/pr0fi7/doc_intel.git
    cd doc_intel
-  ``
 
 2. **Set Up the Virtual Environment**:
 

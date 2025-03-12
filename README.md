@@ -1,6 +1,3 @@
-# Python script to create a markdown README file for DocIntel project
-
-readme_content = """
 # DocIntel
 
 DocIntel is a FastAPI-based tool designed to streamline the processes of embedding, chunking, and other essential tasks in creating chatbots or NLP projects. We handle the complex aspects, allowing you to effortlessly utilize endpoints for embeddings and chunking according to your preferences. Additionally, DocIntel offers advanced text extraction capabilities, including extracting text from images embedded within documents.
